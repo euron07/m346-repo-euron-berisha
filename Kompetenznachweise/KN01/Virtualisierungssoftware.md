@@ -9,7 +9,6 @@ Ich habe mit **Oracle VirtualBox** gearbeitet.
 **erste Vermutung:** VirtualBox ist ein **Hypervisor Typ 2**, weil es auf dem Host-Betriebssystem läuft und auf dem Betriebssystem heruntergeladen wurde.  
 
 Beim Test konnte ich nicht mehr CPUs oder RAM zuweisen, als mein PC tatsächlich hat.  
-Die VM hat genau die eingestellten Werte angezeigt (`lscpu`, `free -h`).  
 
 Erklärung: VirtualBox blockiert eine höhere Zuweisung, damit der Host stabil bleibt.  
 Meine Vermutung (Typ 2) hat sich bestätigt.
@@ -17,6 +16,7 @@ Meine Vermutung (Typ 2) hat sich bestätigt.
 ## Screenshots
 
 **1. Ausgabe in der VM (`lscpu` und `free -h`):**  
+Die eingestellten Werte werden angezeigt.
 ![b69d0743-9fa5-4a50-bb13-8f93a2f1f827](https://github.com/user-attachments/assets/a26b0235-1998-412b-a62f-af7763898e2f)
 
 
