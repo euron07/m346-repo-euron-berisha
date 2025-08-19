@@ -10,7 +10,7 @@ Ich habe mit **Oracle VirtualBox** gearbeitet.
 
 Beim Test konnte ich nicht mehr CPUs oder RAM zuweisen, als mein PC tatsächlich hat.  
 
-Erklärung: VirtualBox blockiert eine höhere Zuweisung, damit der Host stabil bleibt.  
+**Erklärung:** VirtualBox blockiert eine höhere Zuweisung, damit der Host stabil bleibt.  
 Meine Vermutung (Typ 2) hat sich bestätigt.
 
 ## Screenshots
