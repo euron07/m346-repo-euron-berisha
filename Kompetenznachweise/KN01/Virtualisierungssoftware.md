@@ -6,7 +6,7 @@
 ---
 
 Ich habe mit **Oracle VirtualBox** gearbeitet.  
-**erste Vermutung:** VirtualBox ist ein **Hypervisor Typ 2**, weil es auf dem Host-Betriebssystem läuft und auf dem Betriebssystem heruntergeladen wurde.  
+**erste Vermutung:** VirtualBox ist ein **Hypervisor Typ 2**, weil es auf dem Host-Betriebssystem läuft und auf dem Betriebssystem heruntergeladen werden muss.  
 
 Beim Test konnte ich nicht mehr CPUs oder RAM zuweisen, als mein PC tatsächlich hat.  
 
