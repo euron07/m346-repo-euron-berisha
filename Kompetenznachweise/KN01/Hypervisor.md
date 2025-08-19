@@ -17,7 +17,7 @@ Ein Hypervisor ist ein Programm, das dafür sorgt, dass man auf einem einzigen C
 ---
 
 ## Typ 2 Hypervisor (Hosted)
-- Läuft als ganz normales Programm auf einem vorhandenen Betriebssystem (Windows oder macOS).  
+- Läuft als ganz normales Programm auf einem vorhandenen Betriebssystem (z.b Windows).  
 - **Vorteile:** Einfach zu installieren und zu bedienen, ideal zum Lernen und testen oder für Entwickler.  
 - **Nachteile:** Weniger Leistung und etwas unsicherer, weil alles über das Host-Betriebssystem läuft.  
 
