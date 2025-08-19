@@ -1,8 +1,7 @@
 # Hypervisor (Typ 1 vs. Typ 2)
 
 ## Was ist ein Hypervisor?
-Ein Hypervisor ist ein Programm, das dafür sorgt, dass man auf einem einzigen Computer mehrere **virtuelle Computer (VMs)** gleichzeitig laufen lassen kann.  
-Jede virtuelle Maschine bekommt dabei ihre eigenen Teile wie Prozessor, Arbeitsspeicher und Festplatte. So kann man z. B. Windows und Linux gleichzeitig auf demselben Rechner nutzen.
+Ein Hypervisor ist ein Programm, das dafür sorgt, dass man auf einem einzigen Computer mehrere **virtuelle Computer (VMs)** gleichzeitig laufen lassen kann und der Hypervisor verwaltet die Ressourcenverteilung für die VMs.  
 
 <img width="654" height="379" alt="image" src="https://github.com/user-attachments/assets/e6770631-5e49-4068-8981-48cf1d586515" />
 
