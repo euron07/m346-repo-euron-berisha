@@ -8,3 +8,5 @@
 - KN02
   - [Instanz erstellen Aufgabe](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN02/Instanz_erstellen.md)
   - [Zugriff mit SSH-Key Aufgabe](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN02/SSH.md)
+- KN03
+  - [IaaS - Virtuelle Server Aufgabe](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN03/IaaS-Virtuelle_Server.md)
