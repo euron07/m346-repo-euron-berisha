@@ -17,7 +17,7 @@
 
 <img width="1653" height="215" alt="image" src="https://github.com/user-attachments/assets/64274a6d-8e4b-4718-a15d-0fee0bb32a58" />
 
-## Screenshot des Befehls und des Resultats (mysql-Abfrahe und login)
+## Screenshot des Befehls und des Resultats (mysql-Abfrage und login)
 
 <img width="725" height="460" alt="image" src="https://github.com/user-attachments/assets/802027fd-5389-425e-96bc-d46389018aed" />
 
@@ -25,7 +25,7 @@
 ````
 select Host, User from mysql.user;
 ````
-Die Abfrage zeigt alle Benutzer in der Datenbank und ihren Host. mysql.user ist dei Datenbank, in der die User und der Host sind. ```` Host,User```` stellt die Datenbank so dar, dass Host und User nebeneinander angezeigt werden. 
+Die Abfrage zeigt alle Benutzer in der Datenbank und ihren Host. mysql.user ist die Datenbank, in der die User und der Host sind. ```` Host,User```` stellt die Datenbank so dar, dass Host und User nebeneinander angezeigt werden. 
 
 
 
