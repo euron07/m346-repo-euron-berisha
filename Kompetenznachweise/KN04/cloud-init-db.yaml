@@ -18,5 +18,5 @@ packages:
 runcmd:
   - sed -i 's/127.0.0.1/0.0.0.0/g' /etc/mysql/mariadb.conf.d/50-server.cnf
   - systemctl restart mariadb
-  - mysql -sfu root -e "GRANT ALL ON *.* TO 'admin'@'%' IDENTIFIED BY 'MeinSicheresPasswort123' WITH GRANT OPTION;"
+  - mysql -sfu root -e "GRANT ALL ON *.* TO 'admin'@'%' IDENTIFIED BY 'AWSadmin2209' WITH GRANT OPTION;"
 
