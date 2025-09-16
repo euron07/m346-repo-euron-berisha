@@ -11,6 +11,14 @@
 - KN03
   - [IaaS - Virtuelle Server Aufgabe](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN03/IaaS-Virtuelle_Server.md)
 - KN04
-  - [Cloud-init-yaml Datei mit Erklärung](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN04/cloud-init(Aufgabe-A).yaml)
-  - [SSH-Key und Cloud-init Aufgabe](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN04/SSH-Key_und_Cloud-init.md)
-  - [angepasste Cloud-init.yaml Datei](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN04/cloud-init.yaml)
+  - A 
+    - [Cloud-init-yaml Datei mit Erklärung](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN04/cloud-init(Aufgabe-A).yaml)
+  - B
+    - [SSH-Key und Cloud-init Aufgabe](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN04/SSH-Key_und_Cloud-init.md)
+    - [angepasste Cloud-init.yaml Datei](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN04/cloud-init.yaml)
+  - C
+    - [template cloud-init Datei](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN04/cloud-init_template.yaml)
+  - D
+    - [Installation automatisieren Auftrag](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN04/Installation_automatisieren.md)
+    - [Cloud-init-db Datei](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN04/cloud-init-db.yaml)
+    - [Cloud-init-Webserver Datei](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN04/cloud-init-webserver.yaml)
