@@ -22,3 +22,7 @@
     - [Installation automatisieren Auftrag](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN04/Installation_automatisieren.md)
     - [Cloud-init-db Datei](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN04/cloud-init-db.yaml)
     - [Cloud-init-Webserver Datei](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN04/cloud-init-webserver.yaml)
+- KN10
+  - [KN10 Aufgaben](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN10/KN10.md)
+  - [AWS Kostenberechung Export](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN10/aws-kostenberechung.pdf)
+  - [Azure Kostenberechnung Export](https://github.com/euron07/m346-repo-euron-berisha/blob/main/Kompetenznachweise/KN10/azure-kostenberechnung.pdf)
